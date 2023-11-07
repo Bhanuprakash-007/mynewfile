@@ -6,3 +6,15 @@ somu
 sekhar
 rana
 prabahs
+<<<<<<< Updated upstream
+ravi
+chandhu
+loki
+pavi
+=======
+rama
+taja
+thatha
+radha
+krisha
+>>>>>>> Stashed changes
